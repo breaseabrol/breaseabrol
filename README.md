@@ -58,11 +58,7 @@
 * Containerized microservices using **Docker + Kubernetes**
 * Implemented **model versioning and reproducible inference**
 
-### 🎮 Collaborative Game (LibGDX)
 
-* Developed gameplay systems in a **41-member team project**
-* Implemented **projectiles and mini-games**
-* Used **Git-based collaborative workflow** for integration
 
 ---
 
